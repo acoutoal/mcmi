@@ -1,5 +1,5 @@
 # mcmi
-Multi-criteria multiomics integration.
+Multi-criteria integration of multiomics data.
 
 Do multi-criteria integration of 2 omics datasets as described in the paper _Couto Alves, Dysregulation of Complement System and CD4+ T Cell Activation Pathways Implicated in Allergic Response, plosone 2013_. This package provides function to plot **Figure 2 C** and **Figure 2 D**.
 
